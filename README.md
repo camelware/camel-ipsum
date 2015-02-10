@@ -1,7 +1,8 @@
 # camel-ipsum
 camel ipsum generator that runs on bash.
 
-#çalıştırmak için komut satırında dosyanın bulunduğu dizine gelip 
+===
+çalıştırmak için komut satırında dosyanın bulunduğu dizine gelip 
 
 ```
 user$ ./camelipsum.sh  7
