@@ -5,7 +5,7 @@ camel ipsum generator that runs on bash.
 çalıştırmak için komut satırında dosyanın bulunduğu dizine gelip 
 
 ```
-user$ ./camelipsum.sh  7
+user$ sh ./camelipsum.sh  7
 ```
 
 return 
