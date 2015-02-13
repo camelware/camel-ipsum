@@ -2,6 +2,17 @@
 camel ipsum generator that runs on bash.
 
 ===
+## Linux
+çalıştırmak için komut satırında dosyanın bulunduğu dizine gelip önce
+```
+user$ chmod +x camelipsum.sh
+```
+sonra
+```
+user$ ./camelipsum.sh 7
+```
+
+## OSX
 çalıştırmak için komut satırında dosyanın bulunduğu dizine gelip 
 
 ```
